@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author scmak
+ *
+ */
+module BinarySearch {
+}
