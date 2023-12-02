@@ -5,6 +5,6 @@ Different topics will be added as folders/packages with context, so as to help i
 
 During this period of time i intend to learn and greatly acquire the skills in core java
 
-Name: Stewart Comfort 
-JAVA Dev
+# Name: Stewart Comfort |
+JAVA Dev |
 twitter: @StewieCM
